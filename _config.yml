@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
-remote_theme: tuur29/pages-themes-cayman
 title: Teigo Onishi
+
+
+remote_theme: tuur29/pages-themes-cayman
 colors:
     gradient_left: "#155799"
     gradient_right: "#155799"
