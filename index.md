@@ -1,8 +1,8 @@
 ## Welcome!
 
-こんにちは!私のウェブサイトへようこそ!
+こんにちは! 私のウェブサイトへようこそ!
 
-I'm a Ph.D student in Program in Indo-European Studies at UCLA.
+I'm a Ph.D student in Program in Indo-European Studies at UCLA. My research interest is in morphosyntax of an ancient Indo-European language (Tocharian A/B) and morphophonology of the Italic languages.
 
 ### News 
 
