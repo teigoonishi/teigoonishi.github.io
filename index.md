@@ -23,7 +23,7 @@ You can find my CV here.
 
 - Forthcoming!
 
-![Image](src)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ++++++++++++++++++++++++
 
