@@ -11,12 +11,18 @@ You can find my handout [here](https://www.dropbox.com/s/ki9z81a15af1lb6/Sh740_O
 
 ### CV 
 
-You can find my CV [here](https://www.dropbox.com/s/ki9z81a15af1lb6/Sh740_Onishi.pdf?dl=0).
+You can find my CV here.
 
 ### Publication
 
-- Onishi, Teigo 2018. “Latin hībernus and the development of \**(-)mr–* in Latin.” in David M. Goldstein, Stephanie W. Jamison, and Brent Vine (eds.), *Proceedings of the 29th Annual UCLA Indo-European Conference*, 203-21. Bremen: Hempen.
+- Onishi, Teigo 2018. “Latin *hībernus* and the development of \**(-)mr–* in Latin.” in David M. Goldstein, Stephanie W. Jamison, and Brent Vine (eds.), *Proceedings of the 29th Annual UCLA Indo-European Conference*, 203-21. Bremen: Hempen.
 - Onishi, Teigo and Kanehiro Nishimura 2016. “Inseparable Etymologies: Latin *crīnis*, Greek κορέω, and Related Forms in Germanic” (with Kanehiro Nishimura) in David M. Goldstein, Stephanie W. Jamison, and Brent Vine (eds.), *Proceedings of the 27th Annual UCLA Indo-European Conference*, 131-42. Bremen: Hempen.
+
+### Some useful tools
+
+- Forthcoming!
+
+![Image](src)
 
 ++++++++++++++++++++++++
 
