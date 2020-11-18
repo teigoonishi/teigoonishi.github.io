@@ -23,7 +23,7 @@ You can find my CV here.
 
 - Forthcoming!
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](/Users/teionishi/Pictures/モノクロームの世界/IMG_3727.JPG)
 
 ++++++++++++++++++++++++
 
