@@ -1,3 +1,0 @@
-# Teigo Onishi
-
-Welcome!
