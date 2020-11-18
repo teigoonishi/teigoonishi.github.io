@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Welcome! This is my website
+Welcome! This is my website!
 
 You can use the [editor on GitHub](https://github.com/teigoonishi/teigoonishi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
