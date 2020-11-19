@@ -7,6 +7,7 @@ I'm a Ph.D student in Program in Indo-European Studies at UCLA. My research inte
 
 ### News
 
+- Forthcoming!
 {% comment %} 
 On December 8, 2020, I'll be presenting a paper entitled "title" in the workshop "XYZ".
 You can find my handout [here](https://www.dropbox.com/s/ki9z81a15af1lb6/Sh740_Onishi.pdf?dl=0).
@@ -16,12 +17,15 @@ You can find my handout [here](https://www.dropbox.com/s/ki9z81a15af1lb6/Sh740_O
 
 You can find my CV here.
 
-### Publication
+### Publications
 
 - Onishi, Teigo 2018. “Latin *hībernus* and the development of \**(-)mr–* in Latin.” in David M. Goldstein, Stephanie W. Jamison, and Brent Vine (eds.), *Proceedings of the 29th Annual UCLA Indo-European Conference*, 203-21. Bremen: Hempen.
 
 - Onishi, Teigo and Kanehiro Nishimura 2016. “Inseparable Etymologies: Latin *crīnis*, Greek κορέω, and Related Forms in Germanic” (with Kanehiro Nishimura) in David M. Goldstein, Stephanie W. Jamison, and Brent Vine (eds.), *Proceedings of the 27th Annual UCLA Indo-European Conference*, 131-42. Bremen: Hempen.
 
+### Talks
+
+- Forthcoming!
 
 ### Some useful tools
 
