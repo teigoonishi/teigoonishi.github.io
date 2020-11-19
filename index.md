@@ -15,9 +15,8 @@ You can find my handout [here](https://www.dropbox.com/s/ki9z81a15af1lb6/Sh740_O
 You can find my CV here.
 
 ### Publication
-<details>
-<summary>Publication </summary>
-
+<details open>
+<summary>Publication</summary>
 
 
 - Onishi, Teigo 2018. “Latin *hībernus* and the development of \**(-)mr–* in Latin.” in David M. Goldstein, Stephanie W. Jamison, and Brent Vine (eds.), *Proceedings of the 29th Annual UCLA Indo-European Conference*, 203-21. Bremen: Hempen.
