@@ -7,10 +7,11 @@ I'm a Ph.D student in Program in Indo-European Studies at UCLA. My research inte
 
 ### News
 
-- Forthcoming!
-{% comment %} 
-On December 8, 2020, I'll be presenting a paper entitled "title" in the workshop "XYZ".
-You can find my handout [here](https://www.dropbox.com/s/ki9z81a15af1lb6/Sh740_Onishi.pdf?dl=0).
+On December 8, 2020, I'll be presenting a paper entitled "Clitic Doubling in Tocharian A" in the workshop ["Tocharian in Progress"](https://www.universiteitleiden.nl/en/events/2020/12/tocharian-in-progress).
+You can find my handout [here].
+
+{% comment %}
+[here](https://www.dropbox.com/s/ki9z81a15af1lb6/Sh740_Onishi.pdf?dl=0).
 {% endcomment %}
 
 ### CV
@@ -33,7 +34,7 @@ You can find my CV here.
 
 
 
-{% comment %} 
+{% comment %}
 You can use the [editor on GitHub](https://github.com/teigoonishi/teigoonishi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
