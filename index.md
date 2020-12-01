@@ -26,7 +26,21 @@ You can find my CV here.
 
 ### Talks
 
-- Forthcoming!
+- (2020) Emergence of uniformity: Latin vowel height alternation was restructured to increase the predictability of paradigm cells. The 94th LSA Annual Meeting, New Orleans, LA (Poster).
+- (2019) Pronominal suffixes in Tocharian B and implications for split intransitivity. Recent Advances in Tocharian Philology and Linguistics, University of Vienna, Austria. (Invited presenter)
+- (2019) Vestinian *deias*, Paelignian *des* and *deti* and the North-Oscan \**w*-Deletion Rule. The 31st Annual UCLA Indo-European Conference, Los Angeles, CA.
+- (2018) Coronal Dissimilation in Umbrian: synchrony and diachrony. The 30th Annual UCLA Indo-European Conference, Los Angeles, CA.
+- (2017) Latin hībernus and the development of word-internal \*-*mr*– in Latin. The 29th Annual UCLA Indo-European Conference, Los Angeles, CA.
+- (2017) “Umbrian < *rs* > and < *rf* >: synchronic and diachronic analysis.” The 23rd International Conference on Historical Linguistics, San Antonio, TX.
+- (2017) “Causative Constructions in Tocharian B: their relation to causation.” The 227th Annual Meeting of the American Oriental Society, Los Angeles, CA.
+- (with Kanehiro Nishimura) (2016) “On *frammifer*-type Compounds in Italic.” The 28th Annual UCLA Indo-European Conference, Los Angeles, CA.
+- (with Kanehiro Nishimura) (2015) “Latin *crīnis* and Related Forms in Germanic.” The 27th Annual UCLA Indo-European Conference, Los Angeles, CA.
+- (2015): オスク語における母音挿入とシンコピーの相対年代. The 150th Meeting of the Linguistic Society of Japan, Tokyo.
+- (2015): “Latin nouns of ‘instrument’ with the suffix \*-*ti*-.” The 18th International Conference on Latin Linguistics, Toulouse.
+- (2015): “Notes on Sabellic nouns with the suffix \*-*ti*-.” GSAS Workshop in Indo-European and Historical Linguistic, Harvard University.
+- (2014): ラテン語における *ti* 語幹名詞の母音階梯について. The 149th Meeting of the Linguistic Society of Japan, Ehime.
+- (2014): “On the development of the Suffix \*-*ti*- in Latin and Sabellic.” The 26th Annual UCLA Indo-European Conference, Los Angeles, CA.
+- (2014): “On Some Nouns with the Suffix \*-*ti*- in Latin.” Kyoto-UCLA Workshop on Indo-European, Kyoto University.
 
 ### Some useful tools
 
