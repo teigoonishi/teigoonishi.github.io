@@ -8,7 +8,7 @@ I'm a Ph.D student in Program in Indo-European Studies at UCLA. My research inte
 ### News
 
 On December 8, 2020, I'll be presenting a paper entitled "Clitic Doubling in Tocharian A" in the online workshop ["Tocharian in Progress"](https://www.universiteitleiden.nl/en/events/2020/12/tocharian-in-progress).
-You can find my handout [here].
+You can find my handout [**here**].
 
 {% comment %}
 [here](https://www.dropbox.com/s/ki9z81a15af1lb6/Sh740_Onishi.pdf?dl=0).
@@ -16,7 +16,7 @@ You can find my handout [here].
 
 ### CV
 
-You can find my CV here.
+You can find my CV **here**.
 
 ### Publications
 
