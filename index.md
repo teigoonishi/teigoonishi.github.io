@@ -7,8 +7,8 @@ I'm a Ph.D student in Program in Indo-European Studies at UCLA. My research inte
 
 ### News
 
-On December 8, 2020, I'll be presenting a paper entitled "Clitic Doubling in Tocharian A" in the online workshop ["Tocharian in Progress"](https://www.universiteitleiden.nl/en/events/2020/12/tocharian-in-progress).
-You can find my handout [**here**](https://www.dropbox.com/s/yiinq2fm6v16qfj/onishi2020_clitic.pdf?dl=0).
+On January 10, 2021, I'll be presenting a paper entitled ["Pronominal clitics in Tocharian B and their implications for split intransitivity"](https://www.linguisticsociety.org/abstract/pronominal-clitics-tocharian-b-and-their-implications-split-intransitivity) at the Linguistic Society of America 2021 Virtual Annual Meeting.
+You can find my handout [**here**](https://www.dropbox.com/s/utcnmkuony9z5co/lsa2021.pdf?dl=0).
 
 ### CV
 
@@ -22,6 +22,7 @@ You can find my CV **here**.
 
 ### Talks
 
+- (2020) Clitic Doubling in Tocharian A. [Tocharian in Progress](https://www.universiteitleiden.nl/en/events/2020/12/tocharian-in-progress), online workshop. (Invited presenter) [slides](https://www.dropbox.com/s/yiinq2fm6v16qfj/onishi2020_clitic.pdf?dl=0)
 - (2020) Emergence of uniformity: Latin vowel height alternation was restructured to increase the predictability of paradigm cells. The 94th LSA Annual Meeting, New Orleans, LA (Poster).
 - (2019) Pronominal suffixes in Tocharian B and implications for split intransitivity. Recent Advances in Tocharian Philology and Linguistics, University of Vienna, Austria. (Invited presenter)
 - (2019) Vestinian *deias*, Paelignian *des* and *deti* and the North-Oscan \**w*-Deletion Rule. The 31st Annual UCLA Indo-European Conference, Los Angeles, CA.
